@@ -90,3 +90,18 @@ Markdown 文档自动即时渲染为微信图文，让你不再为微信文章�
 
 ## 项目许可证
 [本项目没有任何限制，Just Do What The F*ck You Want。](LICENSE)
+
+
+## 开发介绍
+
+1. 本地开发
+```
+yarn 
+yarn dev
+```
+
+2. 打包静态资源文件
+```
+yarn 
+yarn build
+```
